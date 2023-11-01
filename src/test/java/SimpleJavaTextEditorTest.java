@@ -1,8 +1,10 @@
-package test.java.SimpleJavaTextEditor;
+
 
 // import main.java.SimpleJavaTextEditor;
 import org.junit.Assert;
 import org.junit.Test;
+
+import edu.cmu.f23qa.SupportedKeywords;
 
 public class SimpleJavaTextEditorTest {
 
@@ -11,6 +13,6 @@ public class SimpleJavaTextEditorTest {
      */
     @Test
     public void simpleAssertTests(){
-        Assert.assertTrue(true);
+       assertTrue(true);
     }
 }
