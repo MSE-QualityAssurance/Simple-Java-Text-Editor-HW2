@@ -1,4 +1,4 @@
-package main.java.SimpleJavaTextEditor;
+package edu.cmu.f23qa;
 /**
  * @name        Simple Java NotePad
  * @package     ph.notepad

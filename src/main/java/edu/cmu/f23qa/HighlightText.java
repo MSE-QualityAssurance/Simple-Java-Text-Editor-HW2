@@ -1,4 +1,4 @@
-package main.java.SimpleJavaTextEditor;
+package edu.cmu.f23qa;
 
 import javax.swing.text.*;
 import java.awt.*;
