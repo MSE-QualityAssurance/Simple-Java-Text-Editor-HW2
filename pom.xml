@@ -7,7 +7,7 @@
     <version>1.0</version>
     <artifactId>Simple-Java-Text-Editor</artifactId>
     <properties>
-        <exec.mainClass>main.java.SimpleJavaTextEditor.SimpleJavaTextEditor</exec.mainClass>
+        <exec.mainClass>edu.cmu.f23qa.SimpleJavaTextEditor.SimpleJavaTextEditor</exec.mainClass>
     </properties>
     <dependencies>
         <dependency>
