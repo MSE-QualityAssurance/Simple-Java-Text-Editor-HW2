@@ -1,11 +1,12 @@
+package edu.cmu.f23qa;
 
-import org.junit.Assert;
+import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class SimpleJavaTextEditorTest {
 
     /**
-     * 
+     *
      */
     @Test
     public void simpleAssertTests(){
