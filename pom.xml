@@ -78,7 +78,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>src/</classpathPrefix>
-                            <mainClass>main.java.SimpleJavaTextEditor.SimpleJavaTextEditor</mainClass>
+                            <mainClass>edu.cmu.f23qa.SimpleJavaTextEditor</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
